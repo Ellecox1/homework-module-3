@@ -27,4 +27,4 @@ THEN the password is either displayed in an alert or written to the page
 https://github.com/Ellecox1/homework-module-3
 
 ## Web Site Link
-https://ellecox1.github.io/homework-module-3/
+https://Ellecox1.github.io/homework-module-3/
