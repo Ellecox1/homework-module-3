@@ -16,6 +16,13 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
+![image](https://user-images.githubusercontent.com/108504537/185281145-788c8f48-ff07-43ff-88a6-1566aec944c3.png)
+
+
+
+
+
+
 ## Repository link
 https://github.com/Ellecox1/homework-module-3
 
