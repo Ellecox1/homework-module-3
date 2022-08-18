@@ -24,7 +24,7 @@
 
 
 ## Repository link
-https://github.com/Ellecox1/homework-module-3
+https://github.com/chickengong/homework-module-3
 
 ## Web Site Link
 https://Ellecox1.github.io/homework-module-3/
